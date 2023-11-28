@@ -4,5 +4,5 @@ This project discusses on predicting potential customers who are going to purcha
 2) Deployment of the model in Azure
 
 Files:
-Code file: User_class - Modelling & Deployment
-Source file: ml_datasource
+a) Code file: User_class - Modelling & Deployment
+b) Source file: ml_datasource
